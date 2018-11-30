@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>dubbo-consumer</artifactId>
+    <artifactId>dubbo-consumer-1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>dubbo-consumer</name>
+    <name>dubbo-consumer-1</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
