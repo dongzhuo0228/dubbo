@@ -6,7 +6,7 @@ cmd启动zookper服务
 
 安装 zookeeper-3.4.12
 
-zkServer.cmd
+cmd下执行   zkServer.cmd
 
 dubbo-interface-1  接口服务
 
